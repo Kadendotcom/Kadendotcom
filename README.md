@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I’m Kaden
 
-<!--
-**Kadendotcom/Kadendotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science major** at the **University at Buffalo**  
+📅 **Graduating May 2028**  
+🔐 **Cybersecurity enthusiast**  
+🏆 **Award winner – 2025 MLH x UB Hacking**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a CS student with a strong interest in **cybersecurity**, game development, and hope to help bring security back to the user
+
+I’m especially interested in:
+- Cybersecurity & ethical hacking  
+- Networking & low-level concepts  
+- Competitive programming & hackathons
+- User owned data
+
+---
+
+## 🏆 Achievements
+- **Award Winner**, *2025 MLH x UB Hacking*  
+  Recognized for the best use of Google Gemini API
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** Python, Java and C
+- **Concepts:** Data Structures & Algorithms And Systems Programming 
+- **Security Interests:** Cryptography basics, vulnerability analysis, secure coding  
+- **Tools:** Git/GitHub, Linux, VS Code  
+
+---
+
+## 📌 Current Goals
+- Deepen my knowledge of **cybersecurity and systems**
+- Contribute to open-source projects
+- Land internships related to security or software engineering
+- Develop tools that help users keep their data secure and out of coorperations hands
+
+---
+
+## 📫 Connect With Me
+- GitHub: *You’re already here 🙂*
+- LinkedIn: *www.linkedin.com/in/kaden-bickford-b5769b327*
+
+---
+⭐ Check out my repositories if you want to follow along in my learning journey
