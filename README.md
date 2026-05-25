@@ -1,9 +1,8 @@
 # 👋 Hi, I’m Kaden
 
-🎓 **Computer Science major** at the **University at Buffalo**  
-📅 **Graduating May 2028**  
-🔐 **Cybersecurity enthusiast**  
-🏆 **Award winner – 2025 MLH x UB Hacking**
+**Computer Science major** 
+**Cybersecurity enthusiast**  
+**Award winner – 2025 MLH x UB Hacking**
 
 ---
 
@@ -19,7 +18,7 @@ I’m especially interested in:
 ---
 
 ## 🏆 Achievements
-- **Award Winner**, *2025 MLH x UB Hacking*  
+- **Award Winner**, *2025 MLH*
   Recognized for the best use of Google Gemini API
 
 ---
@@ -42,7 +41,5 @@ I’m especially interested in:
 
 ## 📫 Connect With Me
 - GitHub: *You’re already here 🙂*
-- LinkedIn: *www.linkedin.com/in/kaden-bickford-b5769b327*
-
 ---
 ⭐ Check out my repositories if you want to follow along in my learning journey
