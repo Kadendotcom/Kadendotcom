@@ -1,16 +1,15 @@
 # 👋 Hi, I’m Kaden
 
-**Computer Science major** 
-**Cybersecurity enthusiast**  
+**Computer Science major**
 **Award winner – 2025 MLH x UB Hacking**
 
 ---
 
 ## 🚀 About Me
-I’m a CS student with a strong interest in **cybersecurity**, game development, and hope to help bring security back to the user
+I’m a CS student with a strong interest in full stack, AI/RL and game development.
 
 I’m especially interested in:
-- Cybersecurity & ethical hacking  
+- AI and Reinforcement Learning 
 - Networking & low-level concepts  
 - Competitive programming & hackathons
 - User owned data
