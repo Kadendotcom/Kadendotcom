@@ -1,12 +1,11 @@
 # 👋 Hi, I’m Kaden
 
 **Computer Science major**
-**Award winner – 2025 MLH x UB Hacking**
 
 ---
 
 ## 🚀 About Me
-I’m a CS student with a strong interest in full stack, AI/RL and game development.
+I’m a CS student with a strong interest in Full Stack development, AI/ML/RL, Distributed Systems and Cyber Security .
 
 I’m especially interested in:
 - AI and Reinforcement Learning 
@@ -23,8 +22,8 @@ I’m especially interested in:
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, Java and C
-- **Concepts:** Data Structures & Algorithms And Systems Programming 
+- **Languages:** Python, Java and C, GO
+- **Concepts:** Data Structures & Algorithms, Systems Programming and Distributed Systems
 - **Security Interests:** Cryptography basics, vulnerability analysis, secure coding  
 - **Tools:** Git/GitHub, Linux, VS Code  
 
@@ -34,7 +33,7 @@ I’m especially interested in:
 - Deepen my knowledge of **cybersecurity and systems**
 - Contribute to open-source projects
 - Land internships related to security or software engineering
-- Develop tools that help users keep their data secure and out of coorperations hands
+- Develop tools that help users keep their data secure
 
 ---
 
